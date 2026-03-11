@@ -53,4 +53,4 @@ Cross-platform desktop development – Windows, Linux, macOS
 
 ---
 ## 👩‍💻 Author
-Khushi – Python Developer & Tkinter Enthusiast
+Khushpreet Kaur – Python Developer & Tkinter Enthusiast
